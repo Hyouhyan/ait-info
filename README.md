@@ -1,7 +1,10 @@
 # ait-info
 移動販売とかシャトルバスとか
 
+
 ## シャトルバス
+[愛工大ホームページ](https://www.ait.ac.jp/access/yakusa/)のpdfを参照して手動で頑張って変換した。  
+
 ### 該当日のダイヤ
 `https://gh.hyouhyan.com/ait-info/bus/bus_ABC-R5.json`  
 bus_ABC-R5.jsonには該当日のダイヤが記載されている。  
@@ -14,4 +17,6 @@ bus_diagram-R5.jsonには各ダイヤの運行スケジュールが記載され�
 
 
 ## 移動販売
+学内連絡で配布されるxlsxファイルをExcelでcsvに変換。  
+pdfの場合はWebサービス経由でcsvに変換。  
 `https://gh.hyouhyan.com/ait-info/idou/{yyyy}{mm}.csv`  
