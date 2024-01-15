@@ -13,7 +13,7 @@ bus_ABC-R5.jsonには該当日のダイヤが記載されている。
 ### 各ダイヤの運行スケジュール
 `https://gh.hyouhyan.com/ait-info/bus/bus_diagram-R5.json`  
 bus_diagram-R5.jsonには各ダイヤの運行スケジュールが記載されている。  
-八草駅発のダイヤは"yakusa"、愛工大発のダイヤは"ait。  
+八草駅発のダイヤは"yakusa"、愛工大発のダイヤは"ait"。  
 
 
 ## 移動販売
